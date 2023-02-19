@@ -1,0 +1,40 @@
+[
+
+employee ['Nishant'] ={
+    'Name':'Nishant',
+    'DOB':' '3-5-1999',
+    'Height': '5.6 feet',
+    'City': 'Sagar',
+    'State': 'Madhya Pradesh'
+    }
+employee['Swagat'] ={
+    'Name':'Swagat',
+    'DOB':' '3-4-2001',
+    'Height': '5.4 feet',
+    'City': 'kolkata',
+    'State': 'West bengal'
+    }
+employee['Rohit Modi'] ={
+    'Name':'Rohit Modi',
+    'DOB':' '6-4-2001',
+    'Height': '6 feet',
+    'City': 'Patna',
+    'State': 'Bihar'
+    }
+      
+employee['Rivesh'] ={
+    'Name':'Rivesh',
+    'DOB':' '20-1-2001',
+    'Height': '5.7 feet',
+    'City': 'Bilaspur',
+    'State': 'Chhatisgarh'
+    }
+employee['Sonu'] ={
+    'Name':'Sonu',
+    'DOB':' '20-1-1999',
+    'Height': '5.6 feet',
+    'City': 'Samastipur',
+    'State': 'Bihar'
+    }
+    
+]
